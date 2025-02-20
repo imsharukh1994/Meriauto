@@ -1,58 +1,37 @@
-Meriauto
-Meriauto 🚗
-Meriauto is a user-friendly platform for buying and selling used cars. The platform connects buyers and sellers directly, ensuring a seamless experience without intermediaries.
+# Meriauto
 
-🎯 Key Features
-✅ Direct Transactions – Buyers and sellers meet in person to verify documents and complete payments.
-✅ Subscription-Based Model – Choose from Free, Basic (₹99), Premium (₹299), or Platinum (₹499) plans.
-✅ Mandatory Car Records – Sellers must upload insurance & maintenance records for transparency.
-✅ Listing Expiry – Listings expire after 60 days. Renewal is available for paid users only.
-✅ Secure & Verified Users – Registration is required for both buyers and sellers.
+Meriauto is a platform designed for buying and selling gently used vehicles, focusing on providing an affordable solution for people in need. Our mission is to connect buyers and sellers directly while ensuring a safe and easy transaction process.
 
-🎨 UI/UX Design
-Check out our Figma Prototype:
-View Meriauto Design
+## Table of Contents
 
-🛠️ Tech Stack
-| Technology | Usage | |—————|———-| | Angular | Frontend (Mobile-friendly UI) | | Node.js | Backend (REST API) | | MongoDB | Database (Scalable storage) |
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Subscription Tiers](#subscription-tiers)
+- [License](#license)
+- [Contact](#contact)
 
-🚀 Getting Started
-1️⃣ Prerequisites
-Ensure you have the following installed:
+## Features
 
-Node.js & npm
-Angular CLI
-MongoDB
-2️⃣ Installation
-Clone the repository
-git clone https://github.com/your-repo/meriauto.git
-cd meriauto
-Install dependencies
-npm install
-Start the backend server
-npm run start:server
-Start the frontend
-npm run start:client
-Open your browser and visit:
-http://localhost:4200
-🔄 How It Works?
-Buy & Sell in 3 Simple Steps
-1️⃣ List Your Car – Sign up, choose a plan, and upload car details with insurance & maintenance records.
-2️⃣ Connect & Meet – Buyers browse listings, contact sellers, and schedule inspections.
-3️⃣ Deal Directly – No middlemen! Buyers verify, negotiate, and purchase directly from sellers.
+- **User Registration**: Buyers and sellers can register on the platform to access various features.
+- **Vehicle Listings**: Sellers can list their vehicles with mandatory documentation, including insurance and maintenance records.
+- **Subscription Model**: Multiple tiers for listing and buying vehicles, providing flexibility based on user needs.
+- **Direct Transactions**: Buyers can visit the seller's location, verify documents, and make payments directly to the seller.
+- **Renewal of Listings**: Sellers can renew their listings after 60 days if they have a paid subscription.
 
-🚀 Simple. Transparent. Hassle-Free!
+## Technology Stack
 
-📄 License
-Meriauto is licensed under the MIT License.
+- **Frontend**: React
+- **Backend**: Node.js
+- **Database**: MongoDB
+- **Hosting**: [Your hosting choice]
 
-📩 Contact Us
-For any inquiries, reach out at:
-📧 support@sjtechnologys.com
+## Installation
 
-⭐ Contributions Welcome!
-We love open-source contributions! If you’d like to contribute, please fork the repo and submit a PR.
+To get started with Meriauto, follow these steps:
 
-📌 Happy Coding! 🚗💨
+1. **Clone the repository**:
 
-This site is open source. Improve this page.
+   ```bash
+   git clone https://github.com/yourusername/meriauto.git
